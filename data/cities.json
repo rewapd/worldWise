@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Patna",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-06T09:57:41.714Z",
+      "notes": "dsd",
+      "position": {
+        "lat": "25.283196012824373",
+        "lng": "85.09872436523438"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Makhdumpur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-06T10:00:38.074Z",
+      "notes": "wad",
+      "position": {
+        "lat": "25.03210571563096",
+        "lng": "84.88449096679688"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Gaya",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-07T07:17:54.607Z",
+      "notes": "dasd",
+      "position": {
+        "lat": "24.802941571017538",
+        "lng": "85.02868652343751"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Atri block",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-09T13:51:35.609Z",
+      "notes": "gu",
+      "position": {
+        "lat": "24.910103894725758",
+        "lng": "85.13442993164064"
+      },
+      "id": 98443202
+    }
+  ]
+}
